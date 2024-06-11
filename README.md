@@ -66,10 +66,12 @@ Get the path by running:
 pwd
 ```
 
-Use this path to set the `JAVA_HOME` in your environment variables. Edit your `.zprofile` or `.bash_profile` (depending on the shell you use):
+Use this path to set the `JAVA_HOME` in your environment variables. Edit your `.zprofile` or `.bash_profile` (depending on the shell you use) by opening it with your favorite text editor such as Vscode or `nano`:
 
 ```bash
-nano ~/.zprofile
+code ~/.zprofile  # for VSCode
+ or
+nano ~/.zprofile  # for nano
 ```
 
 Add the following lines (replace the path with the one you copied):
