@@ -1,5 +1,5 @@
 
-```markdown
+
 # Hadoop Ecosystem Setup with Docker
 
 This project sets up a complete Hadoop ecosystem using Docker. It includes Hadoop, Spark, and other related components.
