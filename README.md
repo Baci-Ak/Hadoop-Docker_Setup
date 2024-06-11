@@ -124,7 +124,7 @@ cd hadoop-ecosystem-setup/hadoop_docker
 Your project structure should look like this:
 
 ```
-hadoop-ecosystem-setup
+Hadoop-Docker_Setup
 ├── hadoop_docker
 │   ├── docker-compose.yml
 │   └── hadoop-hive.env
