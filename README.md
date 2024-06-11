@@ -125,6 +125,7 @@ Your project structure should look like this:
 
 ```
 Hadoop-Docker_Setup
+├── Bassey_Akom
 ├── hadoop_docker
 │   ├── docker-compose.yml
 │   └── hadoop-hive.env
